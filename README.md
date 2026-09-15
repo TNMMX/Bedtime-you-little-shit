@@ -24,6 +24,11 @@ This project was created because of a personal problem I had. After I participat
 Current version(s) of Byls have parts of code written by generative AI. I'll fix that in the future.
 
 # Operating System support:
-- Linux: Fully supported (Currently tested on Fedora and Nobara only on KDE Plasma)
+- Linux: Fully supported
 - Windows: Currently unsupported (Port W.I.P.)
-- Mac: Unsupported 
+- Mac: Unsupported
+
+# Tested Linux distro list
+- Fedora (KDE Plasma), pre-compiled binary
+- Nobara (KDE Plasma), pre-compiled binary
+- ZorinOS (Gnome), compiled on client
